@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 📊 I'm passionate about using data to drive insights and support decision-making.
 - 📈 My experiences in finance, healthcare refined my data analysis and research skills.
 - 🧑‍💻 Skilled in Python, SQL, R, Tableau but I'm also learning Data Engineering skills.
+
+- 📫 Also reach me at my personal email kdpham1002@gmail.com
+- 🤫 Fun fact: I like to do dance photography 📸
