@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+- 🎓 I'm a Master's student majoring in Data Science and Business Analytics.
+- 📊 I'm passionate about using data to drive insights and support decision-making.
+- 📈 My experiences in finance, healthcare refined my data analysis and research skills.
+- 🧑‍💻 Skilled in Python, SQL, R, Tableau but I'm also learning Data Engineering skills.
