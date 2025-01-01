@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🧑‍💻 Skilled in Python, SQL, R, Tableau but I'm also learning Data Engineering skills and Big Data technologies.  
 
   
-- 📫 Also reach me at my personal email -- kdpham1002@gmail.com
+- 📫 Also reach me at my personal email – kdpham1002@gmail.com
 - 🤫 Fun fact: I like to do dance photography 📸
