@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-🎓 I'm a Master's student majoring in Data Science and Business Analytics.
-📊 I'm passionate about using data to uncover insights and support strategic decision-making.
-📈 My experience in finance and healthcare has helped me enhance data analysis and research skills.
-🧑‍💻 Proficient in Python, SQL, R, and Tableau, and currently advancing my skills in Data Engineering and Cloud technologies.
 
 - 🎓 I'm a Master's student majoring in Data Science and Business Analytics.
 - 📊 I'm passionate about using data to uncover insights and support strategic decision-making.
