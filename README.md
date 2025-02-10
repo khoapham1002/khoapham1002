@@ -24,6 +24,11 @@ Here are some ideas to get you started:
   
 - 📧 How to reach me: kdpham@umass.edu
 - 💌 Also at: kdpham1002@gmail.com
-- 🤫 Fun fact: I like dance photography & [videography][dance], dance a little at @mdcdance, and blogging too!
+- 🤫 Fun fact: I like dance [photography][vsco] & [videography][dance], dance a little at [@mdcdance][mdcdance], and [blogging][blog] too!
 
+[vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
+[mdcdance]: https://www.instagram.com/mdcdance/
+[blog]: https://khoapham1002.github.io/mindpalace/categories/
+[isenberg]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
+[mindpalace]: https://khoapham1002.github.io/mindpalace/about/
