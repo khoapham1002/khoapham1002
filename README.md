@@ -24,4 +24,6 @@ Here are some ideas to get you started:
   
 - 📧 How to reach me: kdpham@umass.edu
 - 💌 Also at: kdpham1002@gmail.com
-- 🤫 Fun fact: I like to do dance photography 📸
+- 🤫 Fun fact: I like dance photography & [videography][dance], dance a little at @mdcdance, and blogging too!
+
+[dance]: https://www.instagram.com/teenee_archives/reels/
