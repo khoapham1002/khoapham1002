@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
 - 📧 How to reach me: kdpham@umass.edu
 - 💌 Also at: kdpham1002@gmail.com
-- 🤫 Fun fact: I like dance [photography][vsco] & [videography][dance], dance a little at [@mdcdance][mdcdance], and [blogging][blog] too!
+- 🤫 **Fun fact:** I like dance [photography][vsco] & [videography][dance], dance a little at [@mdcdance][mdcdance], and [blogging][blog] too!
 
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
