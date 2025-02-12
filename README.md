@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🧑‍💻 Proficient in Python, SQL, R, Tableau; while actively enhancing my expertise in Data Engineering and Cloud technologies.
 
   
-- 📧 **How to reach me:** kdpham@umass.edu
+- 📧 **Reach me at:** kdpham@umass.edu
 - 💌 **Also at:** kdpham1002@gmail.com
 - 🤫 **Fun fact:** I like dance [photography][vsco] & [videography][dance], dance a little at [@mdcdance][mdcdance], and [blogging][blog] too!
 
