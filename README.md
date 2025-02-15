@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🎓 I'm a Master's student majoring in Data Science and Business Analytics.
 - 📊 I'm passionate about using data to uncover insights and support strategic decision-making.
 - 📈 My experience in finance and healthcare has enabled me to strengthen my data analysis and research skills.
-- 🧑‍💻 Proficient in Python, SQL, R, Tableau; while actively enhancing my expertise in Data Engineering and Cloud technologies.
+- 🧑‍💻 Proficient in SQL, Python, R, Tableau and Git; while actively enhancing my expertise in Data Engineering and Cloud technologies.
 
   
 - 📧 **Reach me at:** kdpham@umass.edu
