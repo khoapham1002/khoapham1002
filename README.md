@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there, I'm Khoa Pham!
 
 <!--
 **kdpham-01002/kdpham-01002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
